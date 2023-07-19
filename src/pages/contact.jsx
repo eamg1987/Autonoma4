@@ -53,7 +53,7 @@ export const Contact = () => {
     >
       <Row>
         <Col>
-          <h2>Génesis </h2>
+          <h2>Génesis Perez</h2>
         </Col>
       </Row>
     </Card>
