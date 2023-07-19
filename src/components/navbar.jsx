@@ -8,7 +8,7 @@ export const Navbar = () => {
     <div className="navbar">
       <div className="links">
         <Link to="/"> Tienda </Link>
-        <Link to="/contact"> Contactos </Link>
+        <Link to="/contact"> Integrantes </Link>
         <Link to="/cart">
           <ShoppingCart size={32} />
         </Link>
