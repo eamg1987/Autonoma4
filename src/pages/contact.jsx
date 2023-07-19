@@ -11,7 +11,7 @@ export const Contact = () => {
     >
       <Row>
         <Col>
-          <h2>Edison Macias Guevara</h2>
+          <h2>Lady Merchan Calderon</h2>
         </Col>
       </Row>
     </Card>
